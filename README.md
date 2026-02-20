@@ -10,7 +10,7 @@ This project takes an input text file, summarizes its content, extracts relation
 -  **Uses NLTK and NetworkX** for processing and visualization  
 
 ##  Tech Stack
-- **Programming Language:** Python 🐍  
+- **Programming Language:** Python   
 - **Libraries Used:**  
   - `NLTK` (Natural Language Toolkit)  
   - `NetworkX` (Graph visualization)  
